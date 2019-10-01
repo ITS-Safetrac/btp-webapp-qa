@@ -1,1 +1,2 @@
-I am a  readme
+appBundleId: 'com.btp.test',  
+appPath: dist/mac/BoardtracPlus_test.app,
